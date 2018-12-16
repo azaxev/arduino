@@ -6,4 +6,4 @@ For this purpose receiver is powered directly in UNO:
 	GND in D3
 	VCC in D4
 
-![VS1838B](img src="http://www.dipmicro.com/img/1/VS1838B-3.jpg"/>)
+![VS1838B](http://www.dipmicro.com/img/1/VS1838B-3.jpg)
